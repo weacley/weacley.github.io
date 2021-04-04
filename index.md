@@ -1,37 +1,3 @@
-## Welcome to GitHub Pages
+通过拟向十三届全国人大一次会议推荐的国家机构领导人员人选建议名单和拟向全国政协十三届一次会议推荐的全国政协领导人员人选建议名单，通过《中共中央关于深化党和国家机构改革的决定》和《深化党和国家机构改革方案》，同意把《深化党和国家机构改革方案》的部分内容按照法定程序提交十三届全国人大一次会议审议
 
-You can use the [editor on GitHub](https://github.com/weacley/weacley.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/weacley/weacley.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+全会号召，全党全国各族人民要紧密团结在以习近平同志为核心的党中央周围，统一思想，统一行动，锐意改革，确保完成深化党和国家机构改革的各项任务，不断构建系统完备、科学规范、运行高效的党和国家机构职能体系，为决胜全面建成小康社会、加快推进社会主义现代化、实现中华民族伟大复兴的中国梦而奋斗
